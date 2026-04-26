@@ -51,7 +51,9 @@
 *<img width="1920" height="1080" alt="Screenshot 2026-04-26 192815" src="https://github.com/user-attachments/assets/7863bec9-a3ec-4e25-8d3c-e1b9f882c2af" />*
 
 *<img width="1920" height="1080" alt="Screenshot 2026-04-26 194434" src="https://github.com/user-attachments/assets/5671c1c3-f07b-4024-8c08-eeaa5a22499f" />*
-<img width="100%" alt="StaySphere Home Page" src="https://github.com/akashmondal-coder/StaySphere/raw/main/public/Icon/StaySphere-icon.jpeg" />
+
+*<img width="1254" height="767" alt="ChatGPT Image Apr 26, 2026, 09_09_14 PM" src="https://github.com/user-attachments/assets/74449d5f-24dc-4145-9efa-9abdfc8c07b0" />*
+
 
 ---
 
