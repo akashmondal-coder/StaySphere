@@ -52,7 +52,18 @@
 
 *<img width="1920" height="1080" alt="Screenshot 2026-04-26 194434" src="https://github.com/user-attachments/assets/5671c1c3-f07b-4024-8c08-eeaa5a22499f" />*
 
-*<img width="1254" height="767" alt="ChatGPT Image Apr 26, 2026, 09_09_14 PM" src="https://github.com/user-attachments/assets/74449d5f-24dc-4145-9efa-9abdfc8c07b0" />*
+---
+
+## 🎨 Brand Identity
+
+### **Project Logo: StaySphere**
+The logo represents the essence of our platform—a seamless "S" curve integrated with a house icon, symbolizing a modern and secure sphere for travelers and hosts.
+
+<p align="left">
+  <img src="https://github.com/akashmondal-coder/StaySphere/raw/main/public/Icon/StaySphere-icon.jpeg" width="200" alt="StaySphere Logo">
+</p>
+
+*Designed to provide a unique and recognizable identity to the StaySphere marketplace.*
 
 
 ---
